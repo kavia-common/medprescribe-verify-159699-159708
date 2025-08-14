@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/medprescribe-verify-159699-159708/frontend_next_js"
+}
