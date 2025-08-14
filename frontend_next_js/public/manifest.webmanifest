@@ -1,0 +1,10 @@
+{
+  "name": "MediChain Prescribe",
+  "short_name": "MediPrescribe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2363eb",
+  "description": "Issue and verify medical prescriptions with blockchain-backed authenticity.",
+  "icons": []
+}
